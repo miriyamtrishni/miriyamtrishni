@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miriyam Rodrigo</h1>
-<h3 align="center">Enthusiastic and personable software engineering student with a passion for collaborative work and a drive to take on new challenges. Known for my friendly demeanor and ambition, I thrive in team environments where I can contribute my skills and ideas to innovative projects. I am eager to tackle new opportunities and leverage my technical abilities to create impactful solutions.</h3>
+<h4 align="center">Enthusiastic and personable software engineering student with a passion for collaborative work and a drive to take on new challenges. Known for my friendly demeanor and ambition, I thrive in team environments where I can contribute my skills and ideas to innovative projects. I am eager to tackle new opportunities and leverage my technical abilities to create impactful solutions.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miriyamtrishni" alt="miriyamtrishni" /></a> </p>
 
