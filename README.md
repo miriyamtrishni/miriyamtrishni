@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💻 I’m currently working on **URBANGREEN**
+- 💻 I’m currently working on **TrashMate- Smart Waste Management System**
 
 - 💬 Ask me about **react , C , Java**
 
