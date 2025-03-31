@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💻 I’m currently working on **TrashMate- Smart Waste Management System**
 
